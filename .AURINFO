@@ -1,0 +1,5 @@
+pkgname="netcat-cpi-kernel-module-git"
+pkgver=r25.cf9e28c-1
+pkgdesc="Cycles Per Instruction: A kernel-module album by netcat"
+url="http://www.netcat.co/"
+license=('custom')

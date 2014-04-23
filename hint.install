@@ -1,0 +1,4 @@
+post_install() {
+    echo "insmod /usr/lib/netcat-cpi-kernel-module-git/netcat.ko"
+    echo "Then watch dmesg for instructions"
+}
